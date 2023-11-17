@@ -6,11 +6,12 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer)
--Remote Desktop
--Active Directory
--Microsoft Windows 10/11
--Microsoft Windows Server
+<p>Microsoft Azure (Virtual Machines/Computer)<br />
+Remote Desktop<br />
+Active Directory<br />
+Microsoft Windows 10/11<br />
+Microsoft Windows Server</p>
+
 
 <h3>For this part of the project it is better to watch the Youtube video as it has many steps. Creating accounts and login into multiple accounts As well as creating a sample support ticket. 
  </h3>
