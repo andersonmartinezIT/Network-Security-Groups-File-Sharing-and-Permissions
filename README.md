@@ -1,5 +1,7 @@
 # Network-Security-Groups-File-Sharing-and-Permissions
-
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" alt="osTicket logo"/>
+</p>
 <h2>Video Demonstration</h2>
 
 -<h3>Check out <a href="https://youtu.be/Z_nDR5I4uOY" target="_blank">YouTube: How To Set Up Network Security Groups, File Sharing and Permissions</a>.</h3>
